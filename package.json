@@ -1,0 +1,13 @@
+{
+ "name": "nissan-dubai-assist",
+ "version": "1.0.0",
+ "type": "module",
+ "scripts": {
+  "start": "node backend/server.js",
+  "test": "node --test tests/app.test.js"
+ },
+ "license": "MIT",
+ "devDependencies": {
+  "jsdom": "^24.0.0"
+ }
+}
