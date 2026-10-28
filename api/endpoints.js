@@ -1,0 +1,2 @@
+export const getWeatherAlerts=async(lat=25.2,lon=55.27,key='')=>{if(!key)return{mock:true,alert:'Dust advisory: reduce speed, use recirculate'};const r=await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${key}`);return r.json()};
+export const vinRecallLookup=async(vin,url='')=>{if(!url)return{mock:true,vin,recalls:[]};const r=await fetch(`${url}?vin=${encodeURIComponent(vin)}`);return r.json()};
