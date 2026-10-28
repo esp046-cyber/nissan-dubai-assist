@@ -1,0 +1,2292 @@
+[
+ {
+  "id": 1,
+  "name": "Oil filter (VK56VD/VQ40DE)",
+  "oemPartNumber": "15208-9E01A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "5000-10000",
+  "estimatedPriceAED": 35,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Oil filter (Sunny/Altima/X-Trail/Kicks)",
+  "oemPartNumber": "15208-65F0E",
+  "compatibleModels": [
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "5000-10000",
+  "estimatedPriceAED": 28,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Air filter, heavy-duty dust spec (Patrol)",
+  "oemPartNumber": "16546-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Clean monthly; sand clogs it fast",
+  "replacementIntervalKm": 20000,
+  "estimatedPriceAED": 110,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Air filter (Sunny N17 1.5L)",
+  "oemPartNumber": "16546-ED500",
+  "compatibleModels": [
+   "Sunny"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": 20000,
+  "estimatedPriceAED": 65,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Sunny"
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Air filter (Altima L34/X-Trail)",
+  "oemPartNumber": "16546-6CA0A",
+  "compatibleModels": [
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": 20000,
+  "estimatedPriceAED": 85,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Spark plugs NGK Laser Iridium DILKAR7A11, set of 8 (VK56VD)",
+  "oemPartNumber": "22401-1LA1C",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": 100000,
+  "estimatedPriceAED": 480,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Spark plugs iridium (Patrol V6/X-Trail/Altima)",
+  "oemPartNumber": "22401-JA01B",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": 100000,
+  "estimatedPriceAED": 240,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Ignition coil (Patrol)",
+  "oemPartNumber": "22448-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Cylinder misfire under high ambient heat load",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 210,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Ignition coil (Sunny N17)",
+  "oemPartNumber": "22448-1HC2B",
+  "compatibleModels": [
+   "Sunny"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 165,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Sunny"
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Serpentine drive belt (VK56VD)",
+  "oemPartNumber": "11720-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Squeal and EPDM cracking from UAE heat",
+  "replacementIntervalKm": 60000,
+  "estimatedPriceAED": 145,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Belt tensioner assembly",
+  "oemPartNumber": "11955-1LA0B / 11955-EA20B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": 80000,
+  "estimatedPriceAED": 390,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Idler pulley",
+  "oemPartNumber": "11925-EZ30A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": 80000,
+  "estimatedPriceAED": 160,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 13,
+  "name": "MAF sensor",
+  "oemPartNumber": "22680-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Desert silica fouls it: rough idle, high fuel use",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 420,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Electronic throttle body",
+  "oemPartNumber": "16119-7S00E",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1150,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 15,
+  "name": "PCV valve",
+  "oemPartNumber": "11810-6N202",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": 60000,
+  "estimatedPriceAED": 55,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Valve cover gasket set R and L",
+  "oemPartNumber": "13270-1LA0A / 13270-EA20C",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Oil seepage onto manifold in summer traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 180,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Oil cooler O-ring and gasket kit",
+  "oemPartNumber": "21304-JA11A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 75,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 18,
+  "name": "High-pressure direct injection fuel pump (VK56VD)",
+  "oemPartNumber": "16630-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 2400,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 19,
+  "name": "In-tank fuel pump module and filter (main/sub tank)",
+  "oemPartNumber": "17040-1LB0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1350,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Fuel injector",
+  "oemPartNumber": "16600-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Heat soak causes misfire or hard starts",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 380,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Timing chain primary kit and guides",
+  "oemPartNumber": "13028-ZJ00A / 13081-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1650,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Front hydraulic engine mounts LH/RH",
+  "oemPartNumber": "11220-5ZM0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 680,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Rear transmission/engine mount",
+  "oemPartNumber": "11320-1LA1A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 420,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Engine oil pan",
+  "oemPartNumber": "11110-EZ30B (Patrol) / 11110-1HS1A (Sunny)",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Wear and sand ingestion in 50C heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 340,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Aluminium radiator, heavy-duty (Patrol)",
+  "oemPartNumber": "21460-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Inspect every 10k km; replace if end-tanks brown or crack",
+  "replacementIntervalKm": 10000,
+  "estimatedPriceAED": 1850,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 26,
+  "name": "Radiator (Sunny N17)",
+  "oemPartNumber": "21410-1HD2A",
+  "compatibleModels": [
+   "Sunny"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 620,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Sunny"
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Radiator pressure cap 88 kPa",
+  "oemPartNumber": "21430-8999C",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": 40000,
+  "estimatedPriceAED": 45,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Water pump",
+  "oemPartNumber": "21010-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": 100000,
+  "estimatedPriceAED": 690,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Viscous fan clutch (Patrol)",
+  "oemPartNumber": "21082-5X23A / 21082-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "AC warms at idle and temp creeps above half",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 850,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Radiator fan blade",
+  "oemPartNumber": "21060-EA200 / 21060-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 290,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 31,
+  "name": "Auxiliary electric fan and shroud",
+  "oemPartNumber": "21481-1LA0A / 21482-3AU1C",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1100,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Electric fan control module",
+  "oemPartNumber": "21493-4EA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 490,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Thermostat and housing, low-temp opening",
+  "oemPartNumber": "21200-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": 80000,
+  "estimatedPriceAED": 175,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 34,
+  "name": "Upper radiator hose",
+  "oemPartNumber": "21501-1LA0A (Patrol) / 21501-1HD1A (Sunny)",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": 80000,
+  "estimatedPriceAED": 120,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Lower radiator hose",
+  "oemPartNumber": "21503-1LA0A (Patrol) / 21503-1HD1B (Sunny)",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": 80000,
+  "estimatedPriceAED": 135,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Heater core pipe connector (firewall)",
+  "oemPartNumber": "14053-1LA1A / 92400-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Brittle plastic T-pipe cracks from heat cycles: sudden coolant loss",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 160,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Coolant expansion tank and cap",
+  "oemPartNumber": "21710-1LA1A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 280,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Engine coolant temperature sensor",
+  "oemPartNumber": "22630-7Y000",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "Overheating risk in Dubai traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 95,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 39,
+  "name": "External transmission oil cooler (7AT)",
+  "oemPartNumber": "21606-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat degrades fluid and seals",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1250,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 40,
+  "name": "CVT oil cooler/warmer and cartridge filter",
+  "oemPartNumber": "21606-3JX2C / 31726-28X0A",
+  "compatibleModels": [
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat degrades fluid and seals",
+  "replacementIntervalKm": 40000,
+  "estimatedPriceAED": 190,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 41,
+  "name": "Transmission pan gasket and strainer",
+  "oemPartNumber": "31728-1LA0A / 31397-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat degrades fluid and seals",
+  "replacementIntervalKm": 60000,
+  "estimatedPriceAED": 320,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 42,
+  "name": "Front CV axle shaft (4WD dune spec)",
+  "oemPartNumber": "39100-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Clicking on full lock after dune climbs",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1450,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Front CV boot repair kit inner and outer",
+  "oemPartNumber": "39241-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat degrades fluid and seals",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 210,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Transfer case shift actuator (4H/4L)",
+  "oemPartNumber": "33251-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat degrades fluid and seals",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1890,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Rear differential breather valve",
+  "oemPartNumber": "38356-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Sand-clogged breather blows axle seals",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 45,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 46,
+  "name": "Propeller shaft U-joint",
+  "oemPartNumber": "37125-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat degrades fluid and seals",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 310,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Front brake pads ceramic (Patrol)",
+  "oemPartNumber": "D1060-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Fade and glazing in heat",
+  "replacementIntervalKm": "30000-40000",
+  "estimatedPriceAED": 380,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Rear brake pads (Patrol)",
+  "oemPartNumber": "D4060-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Fade and glazing in heat",
+  "replacementIntervalKm": "40000-50000",
+  "estimatedPriceAED": 290,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Front brake pads (Altima/X-Trail)",
+  "oemPartNumber": "D1060-6CA0A",
+  "compatibleModels": [
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Fade and glazing in heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 240,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Front ventilated rotor (each)",
+  "oemPartNumber": "40206-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Fade and glazing in heat",
+  "replacementIntervalKm": 80000,
+  "estimatedPriceAED": 520,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Rear ventilated rotor (each)",
+  "oemPartNumber": "43206-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Fade and glazing in heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 460,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Parking brake shoe kit",
+  "oemPartNumber": "44060-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Fade and glazing in heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 230,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 53,
+  "name": "HBMC accumulator sphere",
+  "oemPartNumber": "56215-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Bouncy or stiff ride over speed bumps",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1150,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 54,
+  "name": "Front shock/strut (standard and HBMC)",
+  "oemPartNumber": "E6110-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 890,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Rear shock absorber",
+  "oemPartNumber": "E6210-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 780,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Front upper control arm with ball joint",
+  "oemPartNumber": "54524-1LA0A / 54525-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 740,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 57,
+  "name": "Front lower control arm and bushings",
+  "oemPartNumber": "54500-1LA0B / 54501-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Clunk when braking or hitting sand ruts",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 980,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Sway bar link rods front/rear",
+  "oemPartNumber": "54618-1LA0A / 56261-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 165,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 59,
+  "name": "Front wheel hub and bearing (ABS ring)",
+  "oemPartNumber": "40202-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 820,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 60,
+  "name": "Tie rod ends inner/outer",
+  "oemPartNumber": "D8520-1LA0A / D8640-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 290,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 61,
+  "name": "Power steering pump",
+  "oemPartNumber": "49110-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Rubber tears on speed bumps and dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1350,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 62,
+  "name": "AC compressor with magnetic clutch",
+  "oemPartNumber": "92600-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Weak cooling at idle in 50C",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 2150,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 63,
+  "name": "AC condenser with receiver-drier",
+  "oemPartNumber": "92100-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Sand-blasted fins cut highway cooling",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1100,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 64,
+  "name": "AC expansion valve front/rear",
+  "oemPartNumber": "92200-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Weak cooling at idle in 50C",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 220,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 65,
+  "name": "AC evaporator core",
+  "oemPartNumber": "27280-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Weak cooling at idle in 50C",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1280,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 66,
+  "name": "Activated carbon cabin filter",
+  "oemPartNumber": "27277-1LA0A / 27277-3JC1C",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Weak cooling at idle in 50C",
+  "replacementIntervalKm": "10000-15000",
+  "estimatedPriceAED": 95,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 67,
+  "name": "HVAC blower motor and resistor",
+  "oemPartNumber": "27225-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Weak cooling at idle in 50C",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 580,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 68,
+  "name": "AGM heat-shielded 12V battery 80D26L/95D31L",
+  "oemPartNumber": "24410-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Heat shortens electrical life",
+  "replacementIntervalKm": "18-24 months",
+  "estimatedPriceAED": 550,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 69,
+  "name": "High-output alternator 150A/180A",
+  "oemPartNumber": "23100-1LA1A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Heat shortens electrical life",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1680,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 70,
+  "name": "Starter motor",
+  "oemPartNumber": "23300-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Heat shortens electrical life",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1120,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 71,
+  "name": "Battery fusible link and negative cable",
+  "oemPartNumber": "24380-79915 / 24080-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Heat shortens electrical life",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 140,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 72,
+  "name": "TPMS sensor 433MHz (each)",
+  "oemPartNumber": "40700-1LA0E",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Heat shortens electrical life",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 195,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 73,
+  "name": "Nissan 5W-30 API SP full synthetic (4L)",
+  "oemPartNumber": "KLAN8-05304",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "6.5L VK56VD / 5.1L VQ40DE",
+  "replacementIntervalKm": "5000-10000",
+  "estimatedPriceAED": 165,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 74,
+  "name": "Super long life blue coolant 50/50 (4L)",
+  "oemPartNumber": "KLAN2-00004",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "14.2L Patrol with rear heater",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 95,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 75,
+  "name": "Matic-S ATF (1L)",
+  "oemPartNumber": "999MP-MTS00P",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Degrades faster in UAE heat",
+  "replacementIntervalKm": 60000,
+  "estimatedPriceAED": 55,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 76,
+  "name": "CVT fluid NS-3 (4L)",
+  "oemPartNumber": "KLE53-00004",
+  "compatibleModels": [
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Degrades faster in UAE heat",
+  "replacementIntervalKm": 40000,
+  "estimatedPriceAED": 195,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Sunny",
+   "Altima",
+   "X-Trail"
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Differential hypoid gear oil 75W-90/80W-90",
+  "oemPartNumber": "KLD33-80904",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Degrades faster in UAE heat",
+  "replacementIntervalKm": 40000,
+  "estimatedPriceAED": 85,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 78,
+  "name": "HBMC hydraulic suspension fluid (1L)",
+  "oemPartNumber": "KLF30-00001",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Degrades faster in UAE heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 140,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 79,
+  "name": "DOT 3/4 heavy-duty brake fluid",
+  "oemPartNumber": "KN910-41001",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Degrades faster in UAE heat",
+  "replacementIntervalKm": 40000,
+  "estimatedPriceAED": 45,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 80,
+  "name": "Silicone UV wiper blade set front/rear",
+  "oemPartNumber": "28890-1LA0A / 28790-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Replace before Oct-Mar rain and fog season",
+  "replacementIntervalKm": "6-12 months",
+  "estimatedPriceAED": 140,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Crankshaft position sensor (CKP)",
+  "oemPartNumber": "23731-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Sudden stall in summer traffic; restarts only after cooling",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 195,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "23731-1LA0A",
+   "Patrol Y63": "23731-6KA0A",
+   "Altima": "23731-6CA0A",
+   "X-Trail": "23731-4BT0A",
+   "Sunny": "23731-ED000"
+  }
+ },
+ {
+  "id": 82,
+  "name": "Camshaft position sensor (CMP, bank 1 and 2)",
+  "oemPartNumber": "23731-JA11B",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Long cranking, VDC light and P0340 in high heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 185,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "23731-JA11B",
+   "Patrol Y63": "23731-6KA1A",
+   "Altima": "23731-6CA1A",
+   "X-Trail": "23731-3LM1A",
+   "Sunny": "23731-1HC1A"
+  }
+ },
+ {
+  "id": 83,
+  "name": "Brake pedal stop lamp switch",
+  "oemPartNumber": "25320-AX00C",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Patrol push-start will not crank, traction lights on",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 85,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "25320-AX00C",
+   "Patrol Y63": "25320-6KA0A",
+   "Altima": "25320-4M400",
+   "X-Trail": "25320-4M40A",
+   "Sunny": "25320-1HA0A"
+  }
+ },
+ {
+  "id": 84,
+  "name": "Engine oil pressure sensor (VK56VD)",
+  "oemPartNumber": "25070-1MC0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "False low oil pressure reading at hot idle",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 165,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "25070-1MC0A",
+   "Patrol Y63": "25070-6KA0A",
+   "Altima": "25070-JA00A",
+   "X-Trail": "25070-JA00A",
+   "Sunny": "25240-4M40E"
+  }
+ },
+ {
+  "id": 85,
+  "name": "Sub-tank fuel transfer pump and solenoid",
+  "oemPartNumber": "17042-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Orange SUB TANK light; 45 L reserve will not transfer",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 680,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 86,
+  "name": "EVAP purge solenoid valve",
+  "oemPartNumber": "14930-7S000",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Rough idle after refuelling, P0442/P0455",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 175,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "14930-7S000",
+   "Patrol Y63": "14930-6KA0A",
+   "Altima": "14930-3YM0A",
+   "X-Trail": "14930-JA10D",
+   "Sunny": "14930-1HC0A"
+  }
+ },
+ {
+  "id": 87,
+  "name": "EVAP charcoal canister",
+  "oemPartNumber": "14950-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Clogged by dust or by filling past the first nozzle click",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 720,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "14950-1LA0B",
+   "Patrol Y63": "14950-6KA0A",
+   "Altima": "14950-6CA0A",
+   "X-Trail": "14950-4BA0A",
+   "Sunny": "14950-1HK0A"
+  }
+ },
+ {
+  "id": 88,
+  "name": "Upstream air-fuel ratio sensor (bank 1 and 2)",
+  "oemPartNumber": "22693-1LA0C",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Fails earlier in 50C heat and dust",
+  "replacementIntervalKm": 100000,
+  "estimatedPriceAED": 410,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "22693-1LA0C",
+   "Patrol Y63": "22693-6KA0A",
+   "Altima": "22693-6CA0A",
+   "X-Trail": "22693-4BA0A",
+   "Sunny": "22693-1HC0A"
+  }
+ },
+ {
+  "id": 89,
+  "name": "Downstream heated oxygen sensor",
+  "oemPartNumber": "226A0-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Fails earlier in 50C heat and dust",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 340,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "226A0-1LA0B",
+   "Patrol Y63": "226A0-6KA0A",
+   "Altima": "226A0-6CA0A",
+   "X-Trail": "226A0-4BA0A",
+   "Sunny": "226A0-1HC0A"
+  }
+ },
+ {
+  "id": 90,
+  "name": "Exhaust manifold gasket set",
+  "oemPartNumber": "14036-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "Cold-start ticking as studs warp from dune heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 190,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "14036-1LA0A",
+   "Patrol Y63": "14036-6KA0A",
+   "Altima": "14036-6CA0A",
+   "X-Trail": "14036-JA00A",
+   "Sunny": "14036-ED000"
+  }
+ },
+ {
+  "id": 91,
+  "name": "Catalytic converter (manifold integrated)",
+  "oemPartNumber": "14002-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Engine & Filtration",
+  "uaeFailureSymptom": "P0420/P0430 from poor fuel or ignored misfires",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 3200,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "14002-1LA0B",
+   "Patrol Y63": "14002-6KA0A",
+   "Altima": "14002-6CA0A",
+   "X-Trail": "14002-4BA0A",
+   "Sunny": "14002-1HK0A"
+  }
+ },
+ {
+  "id": 92,
+  "name": "Front underbody skid plate / splash shield",
+  "oemPartNumber": "75890-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Plastic undertray tears off in dunes, exposing belt and alternator",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 650,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "75890-1LA0A",
+   "Patrol Y63": "75890-6KA0A",
+   "Altima": "75890-6CA0A",
+   "X-Trail": "75890-4BA0A",
+   "Sunny": "75890-1HK0A"
+  }
+ },
+ {
+  "id": 93,
+  "name": "Rear differential lock actuator solenoid",
+  "oemPartNumber": "38360-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Flashing diff-lock light in deep dunes",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 890,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 94,
+  "name": "Steering rack dust boot kit",
+  "oemPartNumber": "48203-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Torn boot lets sand destroy rack seals",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 145,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "48203-1LA0A",
+   "Patrol Y63": "48203-6KA0A",
+   "Altima": "48203-6CA0A",
+   "X-Trail": "48203-4BA0A",
+   "Sunny": "48203-1HK0A"
+  }
+ },
+ {
+  "id": 95,
+  "name": "Washer reservoir pump motor",
+  "oemPartNumber": "28920-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Burns out from scale or dry running in sandstorms",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 120,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "28920-1LA0A",
+   "Patrol Y63": "28920-6KA0A",
+   "Altima": "28920-6CA0A",
+   "X-Trail": "28920-4BA0A",
+   "Sunny": "28920-1HA0A"
+  }
+ },
+ {
+  "id": 96,
+  "name": "Sunroof weatherstrip and drain tube",
+  "oemPartNumber": "91350-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Sand-clogged drains leak rain into A-pillar electronics",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 260,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62"
+  ]
+ },
+ {
+  "id": 97,
+  "name": "Door weatherstrip seal (EPDM)",
+  "oemPartNumber": "80831-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Wind noise at 140 km/h and cabin dust ingress",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 310,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "80831-1LA0A",
+   "Patrol Y63": "80831-6KA0A",
+   "Altima": "80831-6CA0A",
+   "X-Trail": "80831-4BA0A",
+   "Sunny": "80831-1HK0A"
+  }
+ },
+ {
+  "id": 98,
+  "name": "Headlight ballast and igniter module",
+  "oemPartNumber": "28474-8992D",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Flicker or failed RTA beam test",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 640,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "28474-8992D",
+   "Patrol Y63": "26055-6KA0A",
+   "Altima": "26055-6CA0A",
+   "X-Trail": "26055-4BA0A",
+   "Sunny": "26010-1HK0A"
+  }
+ },
+ {
+  "id": 99,
+  "name": "Intelligent key proximity transmitter and CR2032",
+  "oemPartNumber": "285E3-1LA5A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Fails earlier in 50C heat and dust",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 480,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "285E3-1LA5A",
+   "Patrol Y63": "285E3-6KA0A",
+   "Altima": "285E3-6CA5A",
+   "X-Trail": "285E3-4BA5A",
+   "Sunny": "285E3-1HK5A"
+  }
+ },
+ {
+  "id": 100,
+  "name": "Fuel filler cap with tether and O-ring",
+  "oemPartNumber": "17251-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Cracked seal triggers check-engine light in summer",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 75,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "17251-1LA0A",
+   "Patrol Y63": "17251-6KA0A",
+   "Altima": "17251-3JA0A",
+   "X-Trail": "17251-4BA0A",
+   "Sunny": "17251-1HK0A"
+  }
+ },
+ {
+  "id": 101,
+  "name": "CVT valve body and solenoid assembly",
+  "oemPartNumber": "31705-28X2B / 31705-3VX0A",
+  "compatibleModels": [
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Juddering, RPM flare or P17F0/P0776 codes from UAE heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 2850,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ]
+ },
+ {
+  "id": 102,
+  "name": "IPDM E/R intelligent power distribution module",
+  "oemPartNumber": "284B7-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "No-crank, fuel pump relay failure or AC clutch cutout in 50C heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1450,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "284B7-1LA0A",
+   "Patrol Y63": "284B7-6KA0A",
+   "Altima": "284B7-6CA0A",
+   "X-Trail": "284B7-4BA0A",
+   "Sunny": "284B7-1HK0A"
+  }
+ },
+ {
+  "id": 103,
+  "name": "Steering wheel clock spring / spiral cable",
+  "oemPartNumber": "B5554-1LA9A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Airbag warning light (fails RTA test) and dead steering wheel controls",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 490,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "B5554-1LA9A",
+   "Patrol Y63": "B5554-6KA0A",
+   "Altima": "B5554-6CA0A",
+   "X-Trail": "B5554-4BA0A",
+   "Sunny": "B5554-1HK0A"
+  }
+ },
+ {
+  "id": 104,
+  "name": "ABS / wheel speed sensor front and rear",
+  "oemPartNumber": "47910-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "ABS, VDC and 4WD lights after desert dune driving",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 240,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail",
+   "Sunny"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "47910-1LA0A",
+   "Patrol Y63": "47910-6KA0A",
+   "Altima": "47910-6CA0A",
+   "X-Trail": "47910-4BA0A",
+   "Sunny": "47910-1HK0A"
+  }
+ },
+ {
+  "id": 105,
+  "name": "Rear cabin AC evaporator core (dual-AC)",
+  "oemPartNumber": "27280-1LA1A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Warm air from 2nd/3rd row vents and refrigerant leak",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1150,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 106,
+  "name": "Rear AC blower motor",
+  "oemPartNumber": "27226-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Weak or no rear cabin airflow in heat",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 540,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 107,
+  "name": "Centre console cool box refrigerant solenoid valve",
+  "oemPartNumber": "92200-1LA1A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63"
+  ],
+  "systemCategory": "AC & Climate",
+  "uaeFailureSymptom": "Console fridge stops cooling while main AC works",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 390,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Bonnet gas lift struts LH and RH pair",
+  "oemPartNumber": "65470-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Gas seals fail every 2-3 Dubai summers and the heavy bonnet drops",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 180,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "65470-1LA0A",
+   "Patrol Y63": "65470-6KA0A",
+   "Altima": "65470-6CA0A",
+   "X-Trail": "65470-4BA0A"
+  }
+ },
+ {
+  "id": 109,
+  "name": "Front grille ADAS distance radar sensor (ICC / ProPILOT)",
+  "oemPartNumber": "28438-1LA0B",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Forward emergency braking fault after sandstorm pitting",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 2400,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "28438-1LA0B",
+   "Patrol Y63": "28438-6KA0A",
+   "Altima": "28438-6CA0A",
+   "X-Trail": "28438-4BA0A"
+  }
+ },
+ {
+  "id": 110,
+  "name": "Front around-view monitor (AVM 360) grille camera",
+  "oemPartNumber": "284F1-1LA0A",
+  "compatibleModels": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail"
+  ],
+  "systemCategory": "Electrical & Sensors",
+  "uaeFailureSymptom": "Blurry front camera lens from sandblasting on E11/E611",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 780,
+  "criticality": "Standard Wear",
+  "oemFor": [
+   "Patrol Y62",
+   "Patrol Y63",
+   "Altima",
+   "X-Trail"
+  ],
+  "oemByModel": {
+   "Patrol Y62": "284F1-1LA0A",
+   "Patrol Y63": "284F1-6KA0A",
+   "Altima": "284F1-6CA0A",
+   "X-Trail": "284F1-4BA0A"
+  }
+ },
+ {
+  "id": 111,
+  "name": "Y63 VR35DDTT electric water-to-air intercooler pump",
+  "oemPartNumber": "14498-6KA0A",
+  "compatibleModels": [
+   "Patrol Y63"
+  ],
+  "systemCategory": "Cooling System (GCC)",
+  "uaeFailureSymptom": "High intake temps and boost reduction in 50C summer traffic",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 1150,
+  "criticality": "Critical - Heat/Safety",
+  "oemFor": [
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Y63 twin-turbo electronic wastegate actuator",
+  "oemPartNumber": "14411-6KA0B",
+  "compatibleModels": [
+   "Patrol Y63"
+  ],
+  "systemCategory": "Ignition & Fuel",
+  "uaeFailureSymptom": "Underboost / overboost check engine code under dune load",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 980,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 113,
+  "name": "Y63 9-speed automatic (JR913E) oil pan and integrated filter",
+  "oemPartNumber": "31728-6KA0A",
+  "compatibleModels": [
+   "Patrol Y63"
+  ],
+  "systemCategory": "Transmission & 4WD",
+  "uaeFailureSymptom": "Heat-degraded fluid and clogged filter in severe use",
+  "replacementIntervalKm": 60000,
+  "estimatedPriceAED": 720,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 114,
+  "name": "Y63 adaptive electronic air suspension compressor and strut bag",
+  "oemPartNumber": "53010-6KA0A",
+  "compatibleModels": [
+   "Patrol Y63"
+  ],
+  "systemCategory": "Brakes & HBMC Suspension",
+  "uaeFailureSymptom": "Ride height stuck in Normal/Entry mode after heavy sand use",
+  "replacementIntervalKm": "On condition",
+  "estimatedPriceAED": 2900,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y63"
+  ]
+ },
+ {
+  "id": 115,
+  "name": "Genuine ATF Matic-P (Y63 9-speed fluid, 4L)",
+  "oemPartNumber": "KLE24-00004",
+  "compatibleModels": [
+   "Patrol Y63"
+  ],
+  "systemCategory": "Fluids, Body & Recovery",
+  "uaeFailureSymptom": "Fluid degrades faster in UAE heat",
+  "replacementIntervalKm": 60000,
+  "estimatedPriceAED": 240,
+  "criticality": "High - Preventative",
+  "oemFor": [
+   "Patrol Y63"
+  ]
+ }
+]

@@ -1,0 +1,64 @@
+{
+ "severe_duty": [
+  {
+   "item": "Engine oil + filter",
+   "km": 10000,
+   "months": 6
+  },
+  {
+   "item": "Cabin/air filters",
+   "km": 10000,
+   "months": 6
+  },
+  {
+   "item": "Brake fluid",
+   "km": 40000,
+   "months": 24
+  },
+  {
+   "item": "CVT fluid",
+   "km": 40000,
+   "months": 24
+  },
+  {
+   "item": "Coolant",
+   "km": 60000,
+   "months": 36
+  },
+  {
+   "item": "Spark plugs",
+   "km": 60000,
+   "months": 48
+  },
+  {
+   "item": "Battery",
+   "km": 0,
+   "months": 15
+  }
+ ],
+ "checklists": {
+  "first": [
+   "Cold tyre pressure (hot highways add 4-6 PSI)",
+   "Coolant reservoir level (Nissan blue long-life 50/50)",
+   "Under-car leaks: AC water vs CVT / steering / oil",
+   "Washer fluid topped up (dust film + morning humidity)",
+   "Battery terminals free of corrosion"
+  ],
+  "monthly": [
+   "Engine air filter: knock out fine silica sand",
+   "Cabin filter and AC centre vent temp (4-8C)",
+   "Drive belt: heat cracks and glazing",
+   "Tread depth and UV cracks in sidewalls",
+   "Silicone-treat door and sunroof seals",
+   "Battery 12.6V+ at rest, alternator 13.8-14.4V"
+  ],
+  "quarterly": [
+   "Synthetic oil + OEM filter (0W-20 or 5W-30 API SP)",
+   "Brake pads, rotors, and brake-fluid moisture",
+   "CVT fluid NS-2/NS-3 health (service ~40,000 km)",
+   "Transfer case and differential oil (Patrol, X-Terra, Pathfinder)",
+   "Flush radiator fins of sand and bugs",
+   "AC refrigerant pressure and condenser"
+  ]
+ }
+}
